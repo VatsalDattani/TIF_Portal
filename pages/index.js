@@ -3,6 +3,7 @@ import Head from 'next/head';
 import LeftArea from '../components/LeftArea';
 import HeaderMenu from '../components/HeaderMenu';
 import MainBody from '../components/MainBody';
+import Footer from '../components/Footer';
 
 const Home = () => (
   <div>
@@ -28,14 +29,10 @@ const Home = () => (
     <div>
 
       <LeftArea />
-
-      {/* <NavBar /> */}
-
-      {/* <RightSide /> */}
-
       <HeaderMenu />
-
       <MainBody />
+      <Footer />
+
     </div>
 
     <script src="../static/js/jquery-3.2.1.min.js"></script>

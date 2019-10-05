@@ -37,26 +37,6 @@ check his/her email for any tasks assigned to them if selected</li>
                             <li>Should there be any discrepancies or issues, the decision taken by Shaastra shall be
 final and binding.</li>
                         </ul>
-
-                        {/* <div className="table_form">
-                            <form className="book_table_form row" action="#">
-                                <div className="form-group col-md-12">
-                                    <input type="text" className="form-control" name="name" placeholder="Enter your name" />
-                                </div>
-                                <div className="form-group col-md-12">
-                                    <input type="email" className="form-control" name="email" placeholder="Enter email address" />
-                                </div>
-                                <div className="form-group col-md-12">
-                                    <input type="text" className="form-control" name="subject" placeholder="Phone Number" />
-                                </div>
-                                <div className="form-group col-md-12">
-                                    <textarea className="form-control" name="text" rows="5" placeholder="Note"></textarea>
-                                </div>
-                                <div className="form-group col-md-12">
-                                    <button type="submit" value="submit" className="primary-btn dark">Send Message</button>
-                                </div>
-                            </form>
-                        </div> */}
                     </div>
                 </div>
             </div>

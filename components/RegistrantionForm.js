@@ -2,6 +2,8 @@ import React from 'react';
 import { Formik } from 'formik';
 import * as Yup from 'yup';
 
+//The form component isn't finished yet
+
 let validationScheme = Yup.object().shape({
     name: Yup.string().required("Field Required").max(255, "Field should be shorter than 255 characters"),
     email: Yup.string()

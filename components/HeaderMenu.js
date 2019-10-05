@@ -13,6 +13,8 @@ export default () => (
                         <span className="icon-bar"></span>
                     </button>
                     <div className="collapse navbar-collapse offset" id="navbarSupportedContent">
+                        <img src="../static/img/logo.png" className="myLogo" alt="" />
+
                         <ul className="nav navbar-nav menu_nav ml-auto">
                             <li className="nav-item active">
                                 <a className="nav-link" href="#">Home</a>
