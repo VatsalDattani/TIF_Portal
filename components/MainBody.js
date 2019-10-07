@@ -44,7 +44,7 @@ let mainTexts = [// All Text given by TIF team
         <p>
             We go beyond the conventional ‘closed room pitching’ to ensure that budding businessmen/women are given exposure and opportunity to take their idea forward.<br />
             <ul>
-                <li>Prizes worth ₹1.5 lakh.</li>
+                <li>Prizes</li>
                 <li>Mentorship to the top teams; helping them understand more about the potential of their projects and an insight into how markets work</li>
                 <li>Possible incubation opportunity by Incubation Cell of IIT Madras</li>
                 <li>Possible funding opportunities through VC’s and other investors</li>
