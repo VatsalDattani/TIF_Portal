@@ -10,7 +10,7 @@
   "dependencies": {
     "@babel/core": "^7.6.2",
     "formik": "^1.5.8",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "next": "9.0.6",
     "react": "16.9.0",
     "react-dom": "16.9.0",
